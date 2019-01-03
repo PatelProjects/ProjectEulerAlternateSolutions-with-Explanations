@@ -1,2 +1,2 @@
 # ProjectEulerSolution
-My personal solutions to the problems on the famous website Project Euler. Updated weekly in 2019!
+Revised and alternate personal solutions to the problems on the famous website Project Euler. Now updated weekly in 2019!
