@@ -1,0 +1,1 @@
+# The upper bound is given by n*9**5, where n is the length of the number in question
